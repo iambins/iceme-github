@@ -1,5 +1,5 @@
 body {
-	background-image: url("../images/gird.jpg");
+	background-image: url("../images/grid.jpg");
 	font-family: "Open Sans"
 }
 
@@ -24,8 +24,8 @@ body {
 }
 
 .spacing2 {
-	padding-top: 5em;
-	padding-bottom: 5em;
+	padding-top: 2em;
+	padding-bottom: 2em;
 }
 
 #wrapper {
