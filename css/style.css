@@ -3,8 +3,13 @@ body {
 	font-family: "Open Sans"
 }
 
+.verticalspacer {
+	padding-top: 5em;
+	padding-bottom: 3em;
+}
+
 .newsletter {
-	padding-bottom:5em;
+	padding-bottom: 5em;
 }
 
 #footer {
@@ -52,7 +57,7 @@ body {
 }
 
 #wrapper h1 {
-	font-size: 60px;
+	font-size: 80px;
 }
 
 #wrapper h2 {
