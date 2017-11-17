@@ -3,6 +3,11 @@ body {
 	font-family: "Open Sans"
 }
 
+.vertical-spacer {
+	padding-top:2em;
+	padding-bottom:2em;
+}
+
 #footer {
 	background-color: black;
 	color: white;
@@ -62,7 +67,7 @@ body {
 
 .container p {
 	font-weight: 300;
-	margin-top: 1.5	em;
+	margin-top: 1.5em;
 }
 
 .navbar-transparent {
@@ -92,6 +97,7 @@ body {
 .navbar-transparent .navbar-brand:focus {
   color: white;
 }
+
 
 
 
