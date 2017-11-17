@@ -19,18 +19,21 @@ body {
 	color: grey;
 }
 
-#spacing {
+#wrapper h1 {
+	padding-top: 50px;
+}
+#spacing2 {
 	padding-top: 1em;
 }
 
-.spacing2 {
+.spacing3 {
 	padding-top: 2em;
 	padding-bottom: 2em;
 }
 
 #wrapper {
 	background-image: url("../images/background/background.jpg");
-	height: 650px;
+	height: 620px;
 	background-size: cover;
 	text-align: center;
 	padding-top: 130px;
@@ -39,7 +42,7 @@ body {
 	margin-bottom: 50px;
 }
 
-.spacing3 {
+.spacing4 {
 	padding-top: 1em;
 	font-size: 10px;
 }
@@ -52,8 +55,9 @@ body {
 	font-size: 40px;
 }
 
-.container {
-	margin-bottom: 50px;
+.features {
+	margin-bottom: 70px;
+	margin-top: 20px;
 }
 
 .container p {
